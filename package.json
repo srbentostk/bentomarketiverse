@@ -1,6 +1,7 @@
 {
   "name": "mydao",
   "version": "3.0.0",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@thirdweb-dev/react": "^3.5.1",
