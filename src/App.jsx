@@ -34,7 +34,8 @@ const App = () => {
     return (
       <div className="member-page">
         <h1> Member Page</h1>
-        <p>Congratulations on being a member</p>
+        <p>Congratulations on being a member, see our Whitepaper</p>
+        <iframe src="https://medium.com/@clubeaulas/exclusive-marketiverse-club-2fc5bf0baf92"></iframe>
       </div>
     );
   };
